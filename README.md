@@ -1,7 +1,7 @@
 # predictperf
 
 <p align="center">
-<img src="https://foxmob.fr/app_wei/github_home.png" alt="Visuel application"/>
+<img src="https://github.com/artpel/predictperf/blob/master/screen.png" alt="Visuel application"/>
 </p>
 
 ## Introduction
