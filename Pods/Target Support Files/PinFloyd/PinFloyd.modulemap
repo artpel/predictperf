@@ -1,0 +1,6 @@
+framework module PinFloyd {
+  umbrella header "PinFloyd-umbrella.h"
+
+  export *
+  module * { export * }
+}
