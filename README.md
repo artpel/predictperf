@@ -23,13 +23,12 @@ Le contenu est la propriété unique de DataInfoGreffe et ne peut pas être réc
 Librairies externes :
 - _Firebase_
 - _Google Maps_
-- _ChameleonFramework_
-- _NVActivityIndicatorView_
-- _SwiftyJSON_
 - _Alamofire_
-- _Pastel_
-- _Spring_
-- _FloatRatingView_
+- _SwiftyJSON_
 - _PinFloyd_
+- _FloatRatingView_
+- _ChameleonFramework_
+- _Pastel_
+- _NVActivityIndicatorView_
 - _FlyOverKit_
 - _SwiftIcons_
