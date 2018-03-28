@@ -25,8 +25,6 @@ target 'PredictPerf' do
     pod 'Alamofire'
     pod 'Pastel'
     pod 'Spring', :git => 'https://github.com/MengTo/Spring.git', :branch => 'swift4'
-    pod 'SearchTextField'
-    pod 'McPicker'
     pod 'FloatRatingView'
     pod 'PinFloyd'
     pod 'FlyoverKit'

@@ -53,7 +53,6 @@ PODS:
   - GoogleToolboxForMac/NSString+URLArguments (2.1.3)
   - GTMSessionFetcher/Core (1.1.14)
   - leveldb-library (1.20)
-  - McPicker (1.0.0)
   - nanopb (0.3.8):
     - nanopb/decode (= 0.3.8)
     - nanopb/encode (= 0.3.8)
@@ -64,7 +63,6 @@ PODS:
   - NVActivityIndicatorView/Presenter (4.1.1)
   - Pastel (0.4.0)
   - PinFloyd (1.0.3)
-  - SearchTextField (1.2.0)
   - Spring (1.0.3)
   - SwiftIcons (2.0.1)
   - SwiftyJSON (4.0.0)
@@ -80,11 +78,9 @@ DEPENDENCIES:
   - GoogleMaps
   - GooglePlacePicker
   - GooglePlaces
-  - McPicker
   - NVActivityIndicatorView
   - Pastel
   - PinFloyd
-  - SearchTextField
   - Spring (from `https://github.com/MengTo/Spring.git`, branch `swift4`)
   - SwiftIcons
   - SwiftyJSON
@@ -121,16 +117,14 @@ SPEC CHECKSUMS:
   GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
   GTMSessionFetcher: 390ea358e5a0d0133153806f744662dad933d06b
   leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
-  McPicker: 130183cd3d22fc6933ea9e63c5a0d0d1becc0122
   nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
   NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
   Pastel: 7fa5e26123b3dbe11f7ed255654bf37100b199a5
   PinFloyd: 29f9ee70cc4595e2e45147087032a3e03f17622b
-  SearchTextField: a5bb7e4c33affadb115afdbe8100d84ef10a8024
   Spring: 3f02b5dc3308572ef177b3cad0fa7bbc4b0706f7
   SwiftIcons: e475a56ae2c2da40672dbf16061ca5dd5cee7dbb
   SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
 
-PODFILE CHECKSUM: 5dd361a9150de969c7ee4b5ee8b916169c0e000c
+PODFILE CHECKSUM: 866b41db5d3bd00ecf2df1e6ad52879b412dbb70
 
 COCOAPODS: 1.4.0

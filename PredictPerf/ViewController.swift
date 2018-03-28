@@ -8,7 +8,6 @@
 
 import UIKit
 import MapKit
-import McPicker
 import Firebase
 import FirebaseDatabase
 import ChameleonFramework
