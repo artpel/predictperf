@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		762EDA4A206569FA00330EBA /* SVUploader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762EDA49206569F900330EBA /* SVUploader.swift */; };
 		763484C1204E910800361399 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 763484C0204E910800361399 /* AppDelegate.swift */; };
 		763484C3204E910800361399 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 763484C2204E910800361399 /* ViewController.swift */; };
 		763484C6204E910800361399 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 763484C4204E910800361399 /* Main.storyboard */; };
@@ -28,7 +27,6 @@
 		37D0633CF040894745593049 /* Pods_PredictPerf.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PredictPerf.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F96D206B922225ED589CD1A /* Pods-PredictPerf.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PredictPerf.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PredictPerf/Pods-PredictPerf.debug.xcconfig"; sourceTree = "<group>"; };
 		467630C289912A088E7D2F67 /* Pods-PredictPerf.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PredictPerf.release.xcconfig"; path = "Pods/Target Support Files/Pods-PredictPerf/Pods-PredictPerf.release.xcconfig"; sourceTree = "<group>"; };
-		762EDA49206569F900330EBA /* SVUploader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SVUploader.swift; sourceTree = "<group>"; };
 		763484BD204E910800361399 /* PredictPerf.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PredictPerf.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		763484C0204E910800361399 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		763484C2204E910800361399 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -85,7 +83,6 @@
 				763484C2204E910800361399 /* ViewController.swift */,
 				76A728BA204F042700356B31 /* LocalData.swift */,
 				769317DA2056E9800027E66B /* Animations.swift */,
-				762EDA49206569F900330EBA /* SVUploader.swift */,
 				763484C4204E910800361399 /* Main.storyboard */,
 				763484C7204E910800361399 /* Assets.xcassets */,
 				769317DC2056F17B0027E66B /* loadingScreen.PNG */,
@@ -298,7 +295,6 @@
 			files = (
 				763484C3204E910800361399 /* ViewController.swift in Sources */,
 				76DE82D320513BB600DEAFB3 /* domaineCell.swift in Sources */,
-				762EDA4A206569FA00330EBA /* SVUploader.swift in Sources */,
 				769317DB2056E9810027E66B /* Animations.swift in Sources */,
 				763484C1204E910800361399 /* AppDelegate.swift in Sources */,
 				76A728BB204F042700356B31 /* LocalData.swift in Sources */,
