@@ -25,7 +25,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         FirebaseApp.configure()
         GMSServices.provideAPIKey("API_KEY")
         
-        // geocoding API key : AIzaSyCT95RXtxAxV_24olVASwb6UBORjaj_xXM
+        
         
         return true
     }
