@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         UIApplication.shared.statusBarStyle = .default
         
         FirebaseApp.configure()
-        GMSServices.provideAPIKey("AIzaSyCLOyImOpo9cwFE0fPaiGo0rHIGDxy_RPU")
+        GMSServices.provideAPIKey("API_KEY")
         
         // geocoding API key : AIzaSyCT95RXtxAxV_24olVASwb6UBORjaj_xXM
         
